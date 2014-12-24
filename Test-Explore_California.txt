@@ -1,0 +1,2 @@
+Esta es una prueba.
+Hice un push. ¿Cómo git hace el tracking?
