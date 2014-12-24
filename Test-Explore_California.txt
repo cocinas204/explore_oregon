@@ -1,2 +1,4 @@
 Esta es una prueba.
 Hice un push. ¿Cómo git hace el tracking?
+Quiero chequear git log origen/branch
+  luis_origen/branch_to_delete
